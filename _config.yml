@@ -1,4 +1,11 @@
 title: Soumyajoy Kundu
-# logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: true
+description: PhD Researcher
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
