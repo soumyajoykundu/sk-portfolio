@@ -6,6 +6,7 @@
   <h2>Latest News</h2>
 
   <div class="latest-news-item">
+    <span class="news-bullet">•</span>
     <span class="news-date">Aug 2026</span>
     <span class="news-text">
       Joined the
@@ -16,6 +17,7 @@
   </div>
 
   <div class="latest-news-item">
+    <span class="news-bullet">•</span>
     <span class="news-date">Jun 2026</span>
     <span class="news-text">
       Qualified <strong>CSIR-NET JRF</strong>, securing
@@ -24,6 +26,7 @@
   </div>
 
   <div class="latest-news-item">
+    <span class="news-bullet">•</span>
     <span class="news-date">2026</span>
     <span class="news-text">
       Exploring research directions in
@@ -34,6 +37,7 @@
   </div>
 
   <div class="latest-news-item">
+    <span class="news-bullet">•</span>
     <span class="news-date">2025</span>
     <span class="news-text">
       Joined the
@@ -44,6 +48,7 @@
   </div>
 
   <div class="latest-news-item">
+    <span class="news-bullet">•</span>
     <span class="news-date">2025</span>
     <span class="news-text">
       Secured <strong>All India Rank 3 in GATE Statistics</strong>.
@@ -51,6 +56,7 @@
   </div>
 
   <div class="latest-news-item">
+    <span class="news-bullet">•</span>
     <span class="news-date">2025</span>
     <span class="news-text">
       Joined <strong>Datakulture, Sedin Technologies</strong>
@@ -60,6 +66,22 @@
   </div>
 
 </section>
+
+/* ==========================================================
+   SPACE BEFORE WORK EXPERIENCE
+   ========================================================== */
+
+.work-timeline {
+  position: relative;
+
+  margin-top: 75px;
+
+  margin-bottom: 20px;
+
+  padding-left: 42px;
+}
+
+
 
 <!-- ==========================================================
      WORK EXPERIENCE
