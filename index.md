@@ -258,7 +258,7 @@ title: Soumyajoy Kundu
      RESEARCH PROJECTS
      ========================================================== -->
 
-<section>
+<!-- <section>
 
 <h2>Research Projects</h2>
 
@@ -336,88 +336,12 @@ title: Soumyajoy Kundu
 </section>
 
 
-<hr>
-
-
-<!-- ==========================================================
-     PUBLICATIONS
-     ========================================================== -->
-
-<section>
-
-<h2>Publications</h2>
-
-<ol>
-
-  <li>
-    Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J.
-    <em>Data-Driven EEG Band Discovery with Decision Trees.</em>
-    2022.
-  </li>
-
-  <li>
-    Lary, D.J. et al.
-    <em>
-      Machine Learning, Big Data, and Spatial Tools:
-      A Combination to Reveal Complex Facts That Impact
-      Environmental Health.
-    </em>
-    Springer, 2022.
-  </li>
-
-  <li>
-    Wijeratne, L.O.H. et al.
-    <em>
-      Advancement in Airborne Particulate Estimation Using
-      Machine Learning.
-    </em>
-    Springer, 2022.
-  </li>
-
-  <li>
-    Wijeratne, L.O.H.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J.
-    <em>
-      Using Machine Learning for the Calibration of Airborne
-      Particulate Sensors.
-    </em>
-    Sensors, 2020.
-  </li>
-
-  <li>
-    Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J.
-    <em>
-      Data-Driven EEG Band Discovery with Decision Trees.
-    </em>
-    Preprints, 2022.
-  </li>
-
-  <li>
-    Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J.
-    <em>
-      Unsupervised Blink Detection Using Eye Aspect Ratio Values.
-    </em>
-    Preprints, 2022.
-  </li>
-
-</ol>
-
-<p>
-  <a href="#">
-    View complete publication list →
-  </a>
-</p>
-
-</section>
-
-
-<hr>
-
-
+<hr> -->
 <!-- ==========================================================
      TALKS & PRESENTATIONS
      ========================================================== -->
 
-<section>
+<!-- <section>
 
 <h2>Talks &amp; Presentations</h2>
 
@@ -466,14 +390,14 @@ title: Soumyajoy Kundu
 </section>
 
 
-<hr>
+<hr> -->
 
 
 <!-- ==========================================================
      SELECTED ACHIEVEMENTS
      ========================================================== -->
 
-<section>
+<!-- <section>
 
 <h2>Selected Achievements</h2>
 
@@ -510,14 +434,14 @@ title: Soumyajoy Kundu
 </section>
 
 
-<hr>
+<hr> -->
 
 
 <!-- ==========================================================
      TECHNICAL SKILLS
      ========================================================== -->
 
-<section>
+<!-- <section>
 
 <h2>Technical Skills</h2>
 
@@ -537,6 +461,6 @@ title: Soumyajoy Kundu
 </p>
 
 <p>
-  <strong>Tools:</strong>
+  <strong>Tools:</strong> -->
   LaTeX, Git, Docker, MongoDB
 </p>
