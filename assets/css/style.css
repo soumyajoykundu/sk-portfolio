@@ -253,7 +253,7 @@ body {
 .latest-news-item {
   display: grid;
 
-  grid-template-columns: 18px 95px minmax(0, 1fr);
+  grid-template-columns: 18px max-content minmax(0, 1fr);
 
   align-items: start;
 
