@@ -3,13 +3,15 @@ layout: default
 title: Soumyajoy Kundu
 ---
 
+<div class="latest-news">
+
 ## Latest News
 
 **2026** — Joined the **Indian Institute of Science (IISc), Bengaluru** as a PhD researcher in **Brain Computation and Data Science**.
 
 **2026** — Qualified **CSIR-NET JRF**, securing **All India Rank 18** with a 99.93 percentile.
 
-**2026** — Working on graph-based modeling and prediction of event-driven processes using Graph Neural Networks.
+**2026** — Exploring research directions in **brain computation and neuroscience**, building on my interests in statistical machine learning, graph-based methods, computer vision, and multimodal AI.
 
 **2025** — Joined the **ForeML Lab, Sorbonne University and Sorbonne Center for AI** as a Research Assistant, working on robust demand forecasting under stochastic and structural uncertainty.
 
@@ -17,6 +19,7 @@ title: Soumyajoy Kundu
 
 **2025** — Joined **Datakulture, Sedin Technologies** as a Junior Data Scientist, working on multimodal AI and enterprise decision-support systems.
 
+</div>
 
 ---
 
