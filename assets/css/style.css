@@ -6,18 +6,13 @@
   box-sizing: border-box;
 }
 
-
 html {
   scroll-behavior: smooth;
 }
 
-
 body {
-
   margin: 0;
-
   background: #ffffff;
-
   color: #222831;
 
   font-family:
@@ -27,9 +22,7 @@ body {
     serif;
 
   font-size: 18px;
-
   line-height: 1.72;
-
 }
 
 
@@ -38,16 +31,12 @@ body {
    ========================================================== */
 
 .site-container {
-
   width: calc(100% - 60px);
-
   max-width: 1120px;
 
   margin: 0 auto;
 
-  padding:
-    50px 0 70px;
-
+  padding: 50px 0 70px;
 }
 
 
@@ -56,50 +45,41 @@ body {
    ========================================================== */
 
 .site-header {
-
   display: flex;
 
   justify-content: space-between;
-
   align-items: center;
 
   padding-bottom: 30px;
-
 }
 
-
 .header-name h1 {
-
   margin: 0;
 
   font-size: 43px;
-
   font-weight: 400;
-
   line-height: 1.15;
-
 }
-
 
 .header-name h1 a {
-
   color: #0645d8;
-
   text-decoration: none;
-
 }
-
 
 .header-name h1 a:hover {
-
   color: #0438ad;
-
 }
 
+
+/* ==========================================================
+   SOCIAL ICONS
+   ========================================================== */
 
 .header-links {
   display: flex;
+
   align-items: center;
+
   gap: 18px;
 
   font-size: 18px;
@@ -122,28 +102,11 @@ body {
 }
 
 
-.header-links a {
-
-  color: #68717d;
-
-  text-decoration: none;
-
-}
-
-
-.header-links a:hover {
-
-  color: #0645d8;
-
-}
-
-
 /* ==========================================================
    PROFILE AREA
    ========================================================== */
 
 .profile-section {
-
   display: grid;
 
   grid-template-columns:
@@ -153,54 +116,35 @@ body {
   column-gap: 75px;
 
   align-items: start;
-
 }
-
 
 .profile-content {
-
   max-width: 690px;
-
 }
 
-
 .profile-content h2 {
-
   margin-top: 0;
-
   margin-bottom: 10px;
 
   color: #1d2530;
 
   font-size: 20px;
-
   font-weight: 600;
 
   line-height: 1.3;
-
 }
-
 
 .profile-content h2:not(:first-child) {
-
   margin-top: 42px;
-
 }
-
 
 .profile-content p {
-
   margin-top: 0;
-
   margin-bottom: 21px;
-
 }
 
-
 .profile-content strong {
-
   font-weight: 600;
-
 }
 
 
@@ -209,30 +153,21 @@ body {
    ========================================================== */
 
 .profile-sidebar {
-
   text-align: center;
-
 }
 
-
 .profile-photo {
-
   display: block;
 
   width: 400px;
-
   height: 485px;
 
   object-fit: cover;
 
-  margin:
-    0 auto 25px;
-
+  margin: 0 auto 25px;
 }
 
-
 .profile-links {
-
   font-family:
     Arial,
     Helvetica,
@@ -243,39 +178,26 @@ body {
   line-height: 1.7;
 
   color: #59616d;
-
 }
 
-
 .profile-links a {
-
   color: #59616d;
 
   text-decoration: underline;
-
 }
-
 
 .profile-links a:hover {
-
   color: #0645d8;
-
 }
-
 
 .link-group {
-
   margin-bottom: 15px;
-
 }
 
-
 .link-group strong {
-
   color: #303742;
 
   font-weight: 600;
-
 }
 
 
@@ -284,16 +206,11 @@ body {
    ========================================================== */
 
 .page-content {
-
   margin-top: 65px;
-
 }
 
-
 .page-content h2 {
-
-  margin:
-    0 0 25px;
+  margin: 0 0 25px;
 
   color: #171d27;
 
@@ -302,14 +219,10 @@ body {
   font-weight: 600;
 
   line-height: 1.25;
-
 }
 
-
 .page-content h3 {
-
-  margin:
-    0 0 3px;
+  margin: 0 0 3px;
 
   color: #202733;
 
@@ -318,33 +231,26 @@ body {
   font-weight: 600;
 
   line-height: 1.4;
-
 }
-
 
 .page-content p {
-
-  margin:
-    0 0 20px;
-
+  margin: 0 0 20px;
 }
 
-
 .page-content a {
-
   color: #59616d;
 
   text-decoration: underline;
 
   text-underline-offset: 3px;
-
 }
 
-
 .page-content a:hover {
-
   color: #0645d8;
+}
 
+.page-content strong {
+  font-weight: 600;
 }
 
 
@@ -353,67 +259,43 @@ body {
    ========================================================== */
 
 .page-content hr {
-
   border: 0;
 
-  border-top:
-    1px solid #e3e6ea;
+  border-top: 1px solid #e3e6ea;
 
-  margin:
-    58px 0;
-
+  margin: 58px 0;
 }
 
-
-/* ==========================================================
-   NEWS
-   ========================================================== */
-
-.page-content strong {
-
-  font-weight: 600;
-
-}
 
 /* ==========================================================
    LATEST NEWS
    ========================================================== */
 
 .latest-news {
-
   margin-bottom: 20px;
-
 }
 
-
 .latest-news h2 {
-
   margin-top: 0;
-
   margin-bottom: 35px;
+
+  color: #171d27;
 
   font-size: 34px;
 
   font-weight: 600;
 
-  color: #171d27;
-
+  line-height: 1.25;
 }
 
-
 .latest-news p {
-
   margin: 0 0 25px;
 
   line-height: 1.65;
-
 }
 
-
 .latest-news p:last-child {
-
   margin-bottom: 0;
-
 }
 
 
@@ -423,16 +305,11 @@ body {
 
 .page-content ul,
 .page-content ol {
-
   padding-left: 28px;
-
 }
 
-
 .page-content li {
-
   margin-bottom: 12px;
-
 }
 
 
@@ -441,13 +318,11 @@ body {
    ========================================================== */
 
 .site-footer {
-
   margin-top: 75px;
 
   padding-top: 25px;
 
-  border-top:
-    1px solid #e3e6ea;
+  border-top: 1px solid #e3e6ea;
 
   text-align: center;
 
@@ -459,23 +334,16 @@ body {
   font-size: 13px;
 
   color: #747b84;
-
 }
 
-
 .site-footer a {
-
   color: #68717d;
 
   text-decoration: none;
-
 }
 
-
 .site-footer a:hover {
-
   color: #0645d8;
-
 }
 
 
@@ -485,67 +353,43 @@ body {
 
 @media (max-width: 850px) {
 
-
   .site-container {
-
-    width:
-      calc(100% - 40px);
+    width: calc(100% - 40px);
 
     padding-top: 25px;
-
   }
-
 
   .site-header {
-
     display: block;
-
   }
-
 
   .header-links {
-
     margin-top: 13px;
-
   }
 
-
   .profile-section {
-
     grid-template-columns: 1fr;
 
     row-gap: 35px;
-
   }
 
-
   .profile-sidebar {
-
     order: -1;
 
     text-align: left;
-
   }
 
-
   .profile-photo {
-
     width: 260px;
 
     height: 330px;
 
     margin-left: 0;
-
   }
-
 
   .profile-links {
-
     text-align: left;
-
   }
-
-
 }
 
 
@@ -555,59 +399,39 @@ body {
 
 @media (max-width: 500px) {
 
-
   body {
-
     font-size: 17px;
-
   }
-
 
   .site-container {
-
-    width:
-      calc(100% - 30px);
-
+    width: calc(100% - 30px);
   }
-
 
   .header-name h1 {
-
     font-size: 35px;
-
   }
 
-
   .header-links {
-
     gap: 14px;
 
     font-size: 13px;
-
   }
 
-
   .profile-photo {
-
     width: 220px;
 
     height: 280px;
-
   }
-
 
   .page-content h2 {
-
     font-size: 25px;
-
   }
-
 
   .page-content h3 {
-
     font-size: 19px;
-
   }
 
-
+  .latest-news h2 {
+    font-size: 28px;
+  }
 }
