@@ -7,63 +7,69 @@
 
   <div class="latest-news-item">
     <span class="news-bullet">•</span>
-    <span class="news-date">Aug 2026</span>
+    <span class="news-date"> <strong> [Aug 2026] </strong> </span>
     <span class="news-text">
       Joined the
-      <strong>Indian Institute of Science (IISc), Bengaluru</strong>
-      as a PhD researcher in
-      <strong>Brain Computation and Data Science</strong>.
+      IISc Bengaluru
+      as a PhD student in
+      Brain Computation and Data Science.
     </span>
   </div>
 
   <div class="latest-news-item">
     <span class="news-bullet">•</span>
-    <span class="news-date">Jun 2026</span>
+    <span class="news-date"> <strong> [Feb 2026] </strong></span>
     <span class="news-text">
-      Qualified <strong>CSIR-NET JRF</strong>, securing
-      <strong>All India Rank 18</strong> with a 99.93 percentile.
+      Qualified CSIR-NET (JRF) securing
+      All India Rank 18 with a 99.93 percentile.
     </span>
   </div>
 
-  <div class="latest-news-item">
-    <span class="news-bullet">•</span>
-    <span class="news-date">2026</span>
-    <span class="news-text">
-      Exploring research directions in
-      <strong>brain computation and neuroscience</strong>,
-      building on my interests in statistical machine learning,
-      graph-based methods, computer vision, and multimodal AI.
-    </span>
-  </div>
+ <div class="latest-news-item">
 
-  <div class="latest-news-item">
-    <span class="news-bullet">•</span>
-    <span class="news-date">2025</span>
-    <span class="news-text">
-      Joined the
-      <strong>ForeML Lab, Sorbonne University and Sorbonne Center for AI</strong>
-      as a Research Assistant, working on robust demand forecasting
-      under stochastic and structural uncertainty.
-    </span>
-  </div>
+  <span class="news-bullet">•</span>
 
-  <div class="latest-news-item">
-    <span class="news-bullet">•</span>
-    <span class="news-date">2025</span>
-    <span class="news-text">
-      Secured <strong>All India Rank 3 in GATE Statistics</strong>.
-    </span>
-  </div>
+  <span class="news-date">Dec 2026</span>
 
-  <div class="latest-news-item">
-    <span class="news-bullet">•</span>
-    <span class="news-date">2025</span>
-    <span class="news-text">
-      Joined <strong>Datakulture, Sedin Technologies</strong>
-      as a Junior Data Scientist, working on multimodal AI and
-      enterprise decision-support systems.
-    </span>
-  </div>
+  <span class="news-text">
+    Co-authored an article,
+    <strong>
+      <a href="https://datakulture.com/blog/ozempic-vs-mounjaro/"
+         target="_blank"
+         rel="noopener">
+        “Ozempic, Mounjaro, and Other GLP-1 Drugs:
+        How Effective Are They for Weight Loss?”
+      </a>
+    </strong>
+    at Datakulture, Sedin Technologies,
+    examining the weight-loss efficacy of Semaglutide and Tirzepatide
+    across patient cohorts and dosages using clinical and real-world
+    evidence.
+  </span>
+
+ </div>
+
+<div class="latest-news-item">
+  <span class="news-bullet">•</span>
+
+  <span class="news-date">[Oct 2025]</span>
+
+  <span class="news-text">
+    Recognized as <strong>Rising Star of the Quarter (Q3) 2025</strong>
+    at Datakulture.
+  </span>
+</div>
+
+<div class="latest-news-item">
+  <span class="news-bullet">•</span>
+
+  <span class="news-date">[Mar 2025]</span>
+
+  <span class="news-text">
+    Secured All India Rank 3 and 129 in
+    GATE Statistics (ST) and Data Science and AI (DA) 2025 organized by IIT Roorkee.
+  </span>
+</div>
 
 </section>
 
