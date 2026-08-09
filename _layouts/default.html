@@ -1,1 +1,339 @@
-{{content}}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <meta
+    name="description"
+    content="{{ site.description }}"
+  >
+
+  <link
+    rel="stylesheet"
+    href="{{ '/assets/css/style.css' | relative_url }}"
+  >
+
+</head>
+
+
+<body>
+
+<div class="site-container">
+
+
+  <!-- =====================================================
+       HEADER
+       ===================================================== -->
+
+  <header class="site-header">
+
+    <div class="header-name">
+
+      <h1>
+        <a href="{{ '/' | relative_url }}">
+          {{ site.title }}
+        </a>
+      </h1>
+
+    </div>
+
+
+    <nav class="header-links">
+
+      <a href="mailto:your-email@example.com">
+        Email
+      </a>
+
+      <a
+        href="https://www.linkedin.com/in/yourusername/"
+        target="_blank"
+        rel="noopener"
+      >
+        LinkedIn
+      </a>
+
+      <a
+        href="https://github.com/yourusername"
+        target="_blank"
+        rel="noopener"
+      >
+        GitHub
+      </a>
+
+    </nav>
+
+  </header>
+
+
+  <!-- =====================================================
+       MAIN PROFILE
+       ===================================================== -->
+
+  <section class="profile-section">
+
+
+    <!-- LEFT COLUMN -->
+
+    <div class="profile-content">
+
+      <h2>Affiliations:</h2>
+
+      <p>
+
+        PhD Researcher in
+        <strong>
+          Brain Computation and Data Science
+        </strong>,
+
+        <br>
+
+        <strong>
+          Indian Institute of Science (IISc),
+          Bengaluru, India.
+        </strong>
+
+      </p>
+
+
+      <p>
+
+        My research interests lie at the intersection of
+        <strong>
+          brain computation, statistics, machine learning,
+          and data science
+        </strong>,
+
+        with broader interests in computational modeling,
+        statistical learning, graph-based methods,
+        and artificial intelligence.
+
+      </p>
+
+
+      <h2>Education:</h2>
+
+
+      <p>
+
+        <strong>
+          PhD in Brain Computation and Data Science
+        </strong>
+
+        <br>
+
+        Indian Institute of Science (IISc), Bengaluru.
+
+        <br>
+
+        <em>2026 – Present</em>
+
+      </p>
+
+
+      <p>
+
+        <strong>
+          M.S. in Data Science
+        </strong>
+
+        <br>
+
+        Chennai Mathematical Institute.
+
+        <br>
+
+        <em>2023 – 2025</em>
+
+      </p>
+
+
+      <p>
+
+        <strong>
+          B.S. (Honours) in Statistics
+        </strong>
+
+        <br>
+
+        University of Calcutta,
+        Maulana Azad College.
+
+        <br>
+
+        <em>2020 – 2023</em>
+
+      </p>
+
+
+      <h2>Contact:</h2>
+
+
+      <p>
+
+        Email:
+
+        <a href="mailto:your-email@example.com">
+          your-email@example.com
+        </a>
+
+      </p>
+
+
+    </div>
+
+
+    <!-- RIGHT COLUMN -->
+
+    <aside class="profile-sidebar">
+
+
+      <img
+        src="{{ '/assets/img/profile.jpg' | relative_url }}"
+        alt="Soumyajoy Kundu"
+        class="profile-photo"
+      >
+
+
+      <div class="profile-links">
+
+
+        <div class="link-group">
+
+          <strong>
+            Research Profiles:
+          </strong>
+
+          <br>
+
+          <a
+            href="https://scholar.google.com/"
+            target="_blank"
+            rel="noopener"
+          >
+            Google Scholar
+          </a>
+
+          &nbsp;|&nbsp;
+
+          <a
+            href="https://github.com/yourusername"
+            target="_blank"
+            rel="noopener"
+          >
+            GitHub
+          </a>
+
+          &nbsp;|&nbsp;
+
+          <a
+            href="https://orcid.org/"
+            target="_blank"
+            rel="noopener"
+          >
+            ORCID
+          </a>
+
+        </div>
+
+
+        <div class="link-group">
+
+          <strong>
+            Academic:
+          </strong>
+
+          <br>
+
+          <a
+            href="https://iisc.ac.in/"
+            target="_blank"
+            rel="noopener"
+          >
+            IISc
+          </a>
+
+          &nbsp;|&nbsp;
+
+          <a
+            href="{{ '/assets/CV.pdf' | relative_url }}"
+            target="_blank"
+          >
+            CV
+          </a>
+
+        </div>
+
+
+      </div>
+
+
+    </aside>
+
+
+  </section>
+
+
+  <!-- =====================================================
+       PAGE CONTENT
+       ===================================================== -->
+
+  <main class="page-content">
+
+    {{ content }}
+
+  </main>
+
+
+  <!-- =====================================================
+       FOOTER
+       ===================================================== -->
+
+  <footer class="site-footer">
+
+    <a href="mailto:your-email@example.com">
+      Email
+    </a>
+
+    &nbsp;·&nbsp;
+
+    <a
+      href="https://scholar.google.com/"
+      target="_blank"
+      rel="noopener"
+    >
+      Google Scholar
+    </a>
+
+    &nbsp;·&nbsp;
+
+    <a
+      href="https://github.com/yourusername"
+      target="_blank"
+      rel="noopener"
+    >
+      GitHub
+    </a>
+
+    &nbsp;·&nbsp;
+
+    <a
+      href="{{ '/assets/CV.pdf' | relative_url }}"
+    >
+      CV
+    </a>
+
+  </footer>
+
+
+</div>
+
+</body>
+
+</html>
