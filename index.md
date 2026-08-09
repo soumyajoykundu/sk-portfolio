@@ -18,7 +18,7 @@
 
   <div class="latest-news-item">
     <span class="news-bullet">•</span>
-    <span class="news-date">[Feb 2026]</strong></span>
+    <span class="news-date">[Feb 2026]</span>
     <span class="news-text">
       Qualified CSIR-NET (JRF) securing
       All India Rank 18 with a 99.93 percentile.
