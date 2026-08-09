@@ -1,7 +1,4 @@
----
-layout: default
-title: Soumyajoy Kundu
----
+
 ---
 layout: default
 title: Soumyajoy Kundu
