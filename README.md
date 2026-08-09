@@ -4,7 +4,7 @@
 
 ## Education
 - Ph.D., Brain, Computation & Data Science | Indian Institute of Science, Bengaluru, India | 2026 - Present							       		
-- M.Sc., Data Science	| Chennai Mathematical Institute, Chennai, India 2023 - 2025	 			        		
+- M.Sc., Data Science	| Chennai Mathematical Institute, Chennai, India | 2023 - 2025	 			        		
 - B.Sc., Statistics (Hons.) | University of Calcutta, Kolkata, India | 2020 - 2023
 
 ## Work Experience
