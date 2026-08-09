@@ -1,9 +1,3 @@
-
----
-layout: default
-title: Soumyajoy Kundu
----
-
 <!-- ==========================================================
      LATEST NEWS
      ========================================================== -->
@@ -65,7 +59,7 @@ title: Soumyajoy Kundu
 <section class="work-timeline">
 
   <h2>Work Experience</h2>
-
+     <br>
 
   <!-- PhD -->
 
