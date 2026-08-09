@@ -235,14 +235,18 @@ body {
    ========================================================== */
 
 .latest-news {
-  margin-bottom: 20px;
+  margin-bottom: 0;
 }
 
 .latest-news h2 {
   margin: 0 0 35px;
+
   color: #171d27;
+
   font-size: 34px;
+
   font-weight: 600;
+
   line-height: 1.25;
 }
 
@@ -251,26 +255,36 @@ body {
 
   grid-template-columns: 18px 85px minmax(0, 1fr);
 
+  align-items: start;
+
   margin: 0 0 25px;
 
   line-height: 1.65;
 }
 
 .news-bullet {
+  display: block;
+
   font-size: 18px;
+
   line-height: 1.65;
+
+  text-align: left;
 }
 
 .news-date {
+  display: block;
+
   font-weight: 600;
+
   white-space: nowrap;
 }
 
 .news-text {
+  display: block;
+
   min-width: 0;
 }
-
-
 
 /* ==========================================================
    WORK EXPERIENCE TIMELINE
