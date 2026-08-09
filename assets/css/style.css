@@ -298,6 +298,230 @@ body {
   margin-bottom: 0;
 }
 
+/* ==========================================================
+   WORK EXPERIENCE TIMELINE
+   ========================================================== */
+
+.work-timeline {
+  position: relative;
+
+  margin-top: 10px;
+
+  margin-bottom: 20px;
+
+  padding-left: 42px;
+}
+
+
+/* Vertical line */
+
+.work-timeline::before {
+
+  content: "";
+
+  position: absolute;
+
+  left: 10px;
+
+  top: 12px;
+
+  bottom: 12px;
+
+  width: 1px;
+
+  background: #cfd4da;
+
+}
+
+
+/* Individual timeline item */
+
+.timeline-item {
+
+  position: relative;
+
+  padding-bottom: 42px;
+
+}
+
+
+.timeline-item:last-child {
+
+  padding-bottom: 0;
+
+}
+
+
+/* Timeline circle */
+
+.timeline-dot {
+
+  position: absolute;
+
+  left: -38px;
+
+  top: 8px;
+
+  width: 11px;
+
+  height: 11px;
+
+  border-radius: 50%;
+
+  background: #ffffff;
+
+  border: 2px solid #59616d;
+
+}
+
+
+/* Timeline content */
+
+.timeline-content {
+
+  max-width: 850px;
+
+}
+
+
+.timeline-content h3 {
+
+  margin: 0 0 3px;
+
+  color: #202733;
+
+  font-size: 21px;
+
+  font-weight: 600;
+
+  line-height: 1.35;
+
+}
+
+
+/* Institution */
+
+.timeline-place {
+
+  color: #3f4650;
+
+  font-size: 18px;
+
+  font-weight: 600;
+
+  line-height: 1.5;
+
+}
+
+
+/* Date */
+
+.timeline-date {
+
+  margin-top: 2px;
+
+  margin-bottom: 12px;
+
+  color: #737b85;
+
+  font-family:
+    Arial,
+    Helvetica,
+    sans-serif;
+
+  font-size: 12px;
+
+  letter-spacing: 0.2px;
+
+}
+
+
+/* Description */
+
+.timeline-content p {
+
+  margin: 0 0 12px;
+
+  line-height: 1.65;
+
+}
+
+
+/* Supervisor */
+
+.timeline-supervisor {
+
+  color: #737b85;
+
+  font-size: 15px;
+
+}
+
+
+/* ==========================================================
+   TIMELINE MOBILE
+   ========================================================== */
+
+@media (max-width: 850px) {
+
+  .work-timeline {
+
+    padding-left: 35px;
+
+  }
+
+  .work-timeline::before {
+
+    left: 8px;
+
+  }
+
+  .timeline-dot {
+
+    left: -33px;
+
+  }
+
+}
+
+
+@media (max-width: 500px) {
+
+  .work-timeline {
+
+    padding-left: 30px;
+
+  }
+
+  .work-timeline::before {
+
+    left: 7px;
+
+  }
+
+  .timeline-dot {
+
+    left: -28px;
+
+    width: 10px;
+
+    height: 10px;
+
+  }
+
+  .timeline-content h3 {
+
+    font-size: 19px;
+
+  }
+
+  .timeline-place {
+
+    font-size: 17px;
+
+  }
+
+}
 
 /* ==========================================================
    LISTS
