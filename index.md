@@ -22,7 +22,6 @@ title: Soumyajoy Kundu
 </div>
 
 ---
-
 ## Work Experience
 
 ### PhD Researcher
