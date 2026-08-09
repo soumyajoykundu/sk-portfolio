@@ -20,69 +20,176 @@ title: Soumyajoy Kundu
 **2025** — Joined **Datakulture, Sedin Technologies** as a Junior Data Scientist, working on multimodal AI and enterprise decision-support systems.
 
 </div>
+--
+<div class="work-timeline">
 
----
 ## Work Experience
 
-### PhD Researcher
+<div class="timeline-item">
 
-**Indian Institute of Science (IISc), Bengaluru**  
-*2026 – Present*
+<div class="timeline-dot"></div>
 
-Working on research problems in **Brain Computation and Data Science**, with an emphasis on computational and data-driven approaches to understanding complex biological and cognitive systems.
+<div class="timeline-content">
 
+<h3>PhD Researcher</h3>
 
-### Research Assistant
+<div class="timeline-place">
+Indian Institute of Science (IISc), Bengaluru
+</div>
 
-**ForeML Lab, Sorbonne University & Sorbonne Center for AI**  
-*November 2025 – Present*
+<div class="timeline-date">
+2026 – Present
+</div>
 
-Working on robust demand forecasting in diffusion-driven environments.
+<p>
+Working on research in <strong>Brain Computation and Data Science</strong>,
+with a focus on exploring computational and data-driven approaches to
+complex biological and cognitive systems.
+</p>
 
-Extending classical Bass-type models to incorporate stochastic perturbations and structural uncertainty, and investigating statistical and machine learning approaches for parameter stability and long-horizon forecasting.
+</div>
 
-**Supervisor:** Dr. Tanujit Chakraborty
-
-
-### Junior Data Scientist
-
-**Datakulture, Sedin Technologies**  
-*June 2025 – Present*
-
-Developing multimodal AI systems integrating vision, language, and audio models for contextual reasoning and enterprise decision support.
-
-Designed and deployed GPT-4o-powered conversational and document-understanding systems integrated with Salesforce and Microsoft Teams.
+</div>
 
 
-### Research Intern
+<div class="timeline-item">
 
-**Theia Technologies, Bangalore**  
-*January 2025 – April 2025*
+<div class="timeline-dot"></div>
 
-Developed real-time object tracking systems using **SAM2** and **SAMURAI** architectures under dynamic camera motion.
+<div class="timeline-content">
 
-Built PTZ-controlled tracking pipelines on RTSP streams to improve robustness under camera jitter and rapid object displacement.
+<h3>Research Assistant</h3>
+
+<div class="timeline-place">
+ForeML Lab, Sorbonne University & Sorbonne Center for AI
+</div>
+
+<div class="timeline-date">
+November 2025 – Present
+</div>
+
+<p>
+Working on robust demand forecasting under stochastic and structural
+uncertainty, investigating statistical and machine learning approaches
+for parameter stability and long-horizon forecasting.
+</p>
+
+<p class="timeline-supervisor">
+Supervisor: <strong>Dr. Tanujit Chakraborty</strong>
+</p>
+
+</div>
+
+</div>
 
 
-### Teaching Assistant
+<div class="timeline-item">
 
-**Chennai Mathematical Institute**  
-*August 2024 – April 2025*
+<div class="timeline-dot"></div>
 
-Assisted with courses in Probability and Statistics with R, Visualization, and Linear Algebra and its Applications.
+<div class="timeline-content">
 
-Conducted tutorial sessions and supported coursework involving statistical modeling, matrix methods, and data analysis.
+<h3>Junior Data Scientist</h3>
+
+<div class="timeline-place">
+Datakulture, Sedin Technologies
+</div>
+
+<div class="timeline-date">
+June 2025 – Present
+</div>
+
+<p>
+Developing multimodal AI systems integrating vision, language, and
+audio models for contextual reasoning and enterprise decision support.
+</p>
+
+</div>
+
+</div>
 
 
-### Research Associate
+<div class="timeline-item">
 
-**Reserve Bank of India, Chennai**  
-*May 2024 – July 2024*
+<div class="timeline-dot"></div>
 
-Studied the impact of RBI liquidity management operations on USD/INR exchange-rate dynamics using macro-financial data.
+<div class="timeline-content">
 
-Implemented **ARDL, GARCH, ECM, VAR, and cointegration-based models**, and compared econometric approaches with RNN/LSTM models.
+<h3>Research Intern</h3>
 
+<div class="timeline-place">
+Theia Technologies, Bangalore
+</div>
+
+<div class="timeline-date">
+January 2025 – April 2025
+</div>
+
+<p>
+Developed real-time object tracking systems using
+<strong>SAM2</strong> and <strong>SAMURAI</strong> under dynamic
+camera motion and built PTZ-controlled tracking pipelines on
+RTSP streams.
+</p>
+
+</div>
+
+</div>
+
+
+<div class="timeline-item">
+
+<div class="timeline-dot"></div>
+
+<div class="timeline-content">
+
+<h3>Teaching Assistant</h3>
+
+<div class="timeline-place">
+Chennai Mathematical Institute
+</div>
+
+<div class="timeline-date">
+August 2024 – April 2025
+</div>
+
+<p>
+Assisted with courses in Probability and Statistics with R,
+Visualization, and Linear Algebra and its Applications.
+</p>
+
+</div>
+
+</div>
+
+
+<div class="timeline-item">
+
+<div class="timeline-dot"></div>
+
+<div class="timeline-content">
+
+<h3>Research Associate</h3>
+
+<div class="timeline-place">
+Reserve Bank of India, Chennai
+</div>
+
+<div class="timeline-date">
+May 2024 – July 2024
+</div>
+
+<p>
+Studied the impact of RBI liquidity management operations on
+USD/INR exchange-rate dynamics using econometric and machine
+learning approaches including ARDL, GARCH, ECM, VAR, and LSTM.
+</p>
+
+</div>
+
+</div>
+
+</div>
 
 ---
 
