@@ -1,182 +1,55 @@
-# sk-portfolio
+# Data Scientist
 
-# Soumyajoy Kundu
-
-### PhD Researcher in Brain Computation & Data Science
-
-I am a PhD researcher at the **Indian Institute of Science (IISc), Bengaluru**, working at the intersection of **brain computation, statistics, machine learning, and data science**. My broader research interests include computational modeling, statistical learning, graph-based methods, time-series analysis, and artificial intelligence for understanding complex systems.
-
-Previously, I worked as a Junior Data Scientist at Sedin Technologies and as a Research Assistant at the ForeML Lab, Sorbonne University and Sorbonne Center for AI. My research and applied work spans graph learning, financial time series, computer vision, multimodal AI, forecasting, and statistical modeling.
-
-[GitHub](https://github.com/) · [LinkedIn](https://www.linkedin.com/) · [Google Scholar](https://scholar.google.com/) · [CV](#)
-
----
-
-## Latest News
-
-* **2026** — Joined the **Indian Institute of Science (IISc), Bengaluru** as a PhD researcher in **Brain Computation and Data Science**.
-
-* **2026** — Qualified **CSIR-NET JRF** with an All India Rank of **18** and 99.93 percentile.
-
-* **2026** — Working on graph-based modeling and prediction of event-driven processes using Graph Neural Networks.
-
-* **2025** — Joined **ForeML Lab, Sorbonne University and Sorbonne Center for AI** as a Research Assistant, working on robust demand forecasting under stochastic and structural uncertainty.
-
-* **2025** — Secured **All India Rank 3 in GATE Statistics**.
-
-* **2025** — Joined **Datakulture, Sedin Technologies** as a Junior Data Scientist, working on multimodal AI and enterprise decision-support systems.
-
----
-
-## Work Experience
-
-### PhD Researcher — Indian Institute of Science (IISc), Bengaluru
-
-*2026 – Present*
-
-Researching problems in **Brain Computation and Data Science**, with an emphasis on computational and data-driven approaches to understanding complex biological and cognitive systems.
-
-### Research Assistant — ForeML Lab, Sorbonne University & Sorbonne Center for AI
-
-*November 2025 – Present*
-
-Working on robust demand forecasting in diffusion-driven environments, extending classical Bass-type models to incorporate stochastic perturbations and structural uncertainty. Investigating statistical and machine learning approaches for parameter stability and long-horizon forecasting.
-
-**Supervisor:** Dr. Tanujit Chakraborty
-
-### Junior Data Scientist — Datakulture, Sedin Technologies
-
-*June 2025 – Present*
-
-Developing multimodal AI systems integrating vision, language, and audio models for contextual reasoning and enterprise decision support. Designed and deployed GPT-4o-powered conversational and document-understanding systems integrated with Salesforce and Microsoft Teams.
-
-### Research Intern — Theia Technologies, Bangalore
-
-*January 2025 – April 2025*
-
-Developed real-time object tracking systems using **SAM2** and **SAMURAI** under dynamic camera motion. Built PTZ-controlled tracking pipelines on RTSP streams to improve robustness under camera jitter and rapid object displacement.
-
-### Teaching Assistant — Chennai Mathematical Institute
-
-*August 2024 – April 2025*
-
-Assisted with courses in Probability and Statistics with R, Visualization, and Linear Algebra and its Applications. Conducted tutorials and supported coursework involving statistical modeling, matrix methods, and data analysis.
-
-### Research Associate — Reserve Bank of India, Chennai
-
-*May 2024 – July 2024*
-
-Studied the impact of RBI liquidity management operations on USD/INR exchange-rate dynamics using macro-financial data. Implemented ARDL, GARCH, ECM, VAR, and cointegration-based models and compared their performance with RNN/LSTM approaches.
-
----
-
-## Research Projects
-
-### Graph-based Modeling and Prediction of Event-driven Processes
-
-Modeled event-driven business processes as structured graphs by transforming event logs into process knowledge graph representations capturing activities, resources, and dependencies. Developed **Graph Neural Network models using GCN and GAT** architectures to predict next-step activities and identify potential bottlenecks.
-
-### Data-driven Graph Construction
-
-Constructed similarity graphs from structured datasets to model relationships between entities and uncover latent structure. Analyzed graph Laplacian properties and implemented spectral partitioning using **Fiedler vectors and k-means** to study clustering stability.
-
-### Impact of RBI Liquidity Management on USD/INR Exchange Rates
-
-Investigated the relationship between RBI liquidity management operations and USD/INR exchange-rate dynamics using time-series and econometric methods. Implemented **ARDL, GARCH, ECM, VAR, and cointegration techniques**, and compared traditional econometric models with LSTM-based approaches.
-
-### KovaiDelivery: Multi-Agent Autonomous Logistics System
-
-Formulated large-scale multi-agent coordination as a constrained optimization problem under dynamic environmental conditions. Designed stateful decision pipelines and inter-agent communication mechanisms for robust resource allocation and system-level coordination.
-
-### Real-Time Object Tracking
-
-Developed real-time object tracking systems using **SAM2 and SAMURAI** architectures. Integrated tracking with PTZ-controlled cameras and RTSP video streams to handle dynamic camera motion, jitter, and rapid object displacement.
-
----
-
-## Publications
-
-1. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. *Data-Driven EEG Band Discovery with Decision Trees*. 2022.
-
-2. Lary, D.J. et al. *Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health*. Springer, 2022.
-
-3. Wijeratne, L.O.H. et al. *Advancement in Airborne Particulate Estimation Using Machine Learning*. Springer, 2022.
-
-4. Wijeratne, L.O.H.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. *Using Machine Learning for the Calibration of Airborne Particulate Sensors*. Sensors, 2020.
-
-[View complete publication list →](#)
-
----
-
-## Talks & Presentations
-
-* **Probabilistic Modeling** — National Mathematics Day Seminar, Department of Statistics, Maulana Azad College, 2025
-
-* **Conformal Prediction** — The AI Hour, Vizuara AI Labs, 2024
-
-* **Data-driven Graph Construction** — Data Science Seminar, Chennai Mathematical Institute, 2024
-
-* **AI for Everyone** — Department of Statistics, Maulana Azad College, 2024
-
-* **Data-driven Graph Construction: Unlocking Insights through Clustering and Spectral Partitioning** — IASCT Conference, 2024
-
-* **A Statistical Analysis of the Paradigm Shift in Consumer Behavior in the Digital Era** — NIT Meghalaya & NIT Patna, 2024
-
----
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-### PhD — Brain Computation and Data Science
+## Work Experience
+**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Indian Institute of Science (IISc), Bengaluru**
-*2026 – Present*
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-### M.S. — Data Science
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-**Chennai Mathematical Institute**
-*2023 – 2025*
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-GPA: **9.38 / 10.00** · Ranked **5th in Department**
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### B.S. (Honours) — Statistics
+### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-**University of Calcutta, Maulana Azad College**
-*2020 – 2023*
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-GPA: **9.163 / 10.000** · Ranked **1st in Department and University**
+![Bike Study](/assets/img/bike_study.jpeg)
 
----
+## Talks & Lectures
+- Causality: The new science of an old question - GSP Seminar, Fall 2021
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
+- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
+- Weeks of Welcome Poster Competition - UTD, Fall 2019
+- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-## Selected Achievements
+- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-* **CSIR-NET JRF — All India Rank 18**, 99.93 percentile, 2026
-* **GATE Statistics — All India Rank 3**, 2025
-* **GATE Data Science & Artificial Intelligence — All India Rank 129**, 2025
-* **CUET-PG Statistics — All India Rank 1**, 2023
-* **University Rank 1** in undergraduate academic performance, University of Calcutta, 2023
+## Publications
+1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
+4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
+5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
+6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
+7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
+8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
+9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
----
-
-## Technical Skills
-
-**Programming:** Python, R, SQL, Java
-
-**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, OpenCV, NLTK, spaCy
-
-**Data Science:** Pandas, NumPy, ggplot2, Power BI, EViews
-
-**Tools:** LaTeX, Git, Docker, MongoDB
-
----
-
-## Contact
-
-**Email:** [your-email@example.com](mailto:your-email@example.com)
-
-**GitHub:** [github.com/yourusername](https://github.com/)
-
-**LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/)
-
-**Google Scholar:** [Google Scholar](https://scholar.google.com/)
-
-**CV:** [Download CV](#)
+- [Data Science Blog](https://medium.com/@shawhin)
