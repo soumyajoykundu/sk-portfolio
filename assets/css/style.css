@@ -247,8 +247,27 @@ body {
 }
 
 .latest-news-item {
+  display: grid;
+
+  grid-template-columns: 18px 85px minmax(0, 1fr);
+
   margin: 0 0 25px;
+
   line-height: 1.65;
+}
+
+.news-bullet {
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+.news-date {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.news-text {
+  min-width: 0;
 }
 
 .latest-news-item:last-child {
