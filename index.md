@@ -1,56 +1,65 @@
 <!-- ==========================================================
      LATEST NEWS
      ========================================================== -->
-
 <section class="latest-news">
 
   <h2>Latest News</h2>
 
-  <p class="latest-news-item">
-    <strong>2026</strong> — Joined the
-    <strong>Indian Institute of Science (IISc), Bengaluru</strong>
-    as a PhD researcher in
-    <strong>Brain Computation and Data Science</strong>.
-  </p>
+  <div class="latest-news-item">
+    <span class="news-date">Aug 2026</span>
+    <span class="news-text">
+      Joined the
+      <strong>Indian Institute of Science (IISc), Bengaluru</strong>
+      as a PhD researcher in
+      <strong>Brain Computation and Data Science</strong>.
+    </span>
+  </div>
 
-  <p class="latest-news-item">
-    <strong>2026</strong> — Qualified
-    <strong>CSIR-NET JRF</strong>, securing
-    <strong>All India Rank 18</strong>
-    with a 99.93 percentile.
-  </p>
+  <div class="latest-news-item">
+    <span class="news-date">Jun 2026</span>
+    <span class="news-text">
+      Qualified <strong>CSIR-NET JRF</strong>, securing
+      <strong>All India Rank 18</strong> with a 99.93 percentile.
+    </span>
+  </div>
 
-  <p class="latest-news-item">
-    <strong>2026</strong> — Exploring research directions in
-    <strong>brain computation and neuroscience</strong>,
-    building on my interests in statistical machine learning,
-    graph-based methods, computer vision, and multimodal AI.
-  </p>
+  <div class="latest-news-item">
+    <span class="news-date">2026</span>
+    <span class="news-text">
+      Exploring research directions in
+      <strong>brain computation and neuroscience</strong>,
+      building on my interests in statistical machine learning,
+      graph-based methods, computer vision, and multimodal AI.
+    </span>
+  </div>
 
-  <p class="latest-news-item">
-    <strong>2025</strong> — Joined the
-    <strong>ForeML Lab, Sorbonne University and Sorbonne Center for AI</strong>
-    as a Research Assistant, working on robust demand forecasting
-    under stochastic and structural uncertainty.
-  </p>
+  <div class="latest-news-item">
+    <span class="news-date">2025</span>
+    <span class="news-text">
+      Joined the
+      <strong>ForeML Lab, Sorbonne University and Sorbonne Center for AI</strong>
+      as a Research Assistant, working on robust demand forecasting
+      under stochastic and structural uncertainty.
+    </span>
+  </div>
 
-  <p class="latest-news-item">
-    <strong>2025</strong> — Secured
-    <strong>All India Rank 3 in GATE Statistics</strong>.
-  </p>
+  <div class="latest-news-item">
+    <span class="news-date">2025</span>
+    <span class="news-text">
+      Secured <strong>All India Rank 3 in GATE Statistics</strong>.
+    </span>
+  </div>
 
-  <p class="latest-news-item">
-    <strong>2025</strong> — Joined
-    <strong>Datakulture, Sedin Technologies</strong>
-    as a Junior Data Scientist, working on multimodal AI and
-    enterprise decision-support systems.
-  </p>
+  <div class="latest-news-item">
+    <span class="news-date">2025</span>
+    <span class="news-text">
+      Joined <strong>Datakulture, Sedin Technologies</strong>
+      as a Junior Data Scientist, working on multimodal AI and
+      enterprise decision-support systems.
+    </span>
+  </div>
 
 </section>
-
-
-<hr>
-
 
 <!-- ==========================================================
      WORK EXPERIENCE
