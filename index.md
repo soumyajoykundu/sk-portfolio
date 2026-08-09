@@ -7,7 +7,7 @@
 
   <div class="latest-news-item">
     <span class="news-bullet">•</span>
-    <span class="news-date"> <strong> [Aug 2026] </strong> </span>
+    <span class="news-date">[Aug 2026]</span>
     <span class="news-text">
       Joined the
       IISc Bengaluru
@@ -18,7 +18,7 @@
 
   <div class="latest-news-item">
     <span class="news-bullet">•</span>
-    <span class="news-date"> <strong> [Feb 2026] </strong></span>
+    <span class="news-date">[Feb 2026]</strong></span>
     <span class="news-text">
       Qualified CSIR-NET (JRF) securing
       All India Rank 18 with a 99.93 percentile.
@@ -29,7 +29,7 @@
 
   <span class="news-bullet">•</span>
 
-  <span class="news-date">Dec 2026</span>
+  <span class="news-date">[Dec 2025]</span>
 
   <span class="news-text">
     Co-authored an article,
@@ -55,8 +55,8 @@
   <span class="news-date">[Oct 2025]</span>
 
   <span class="news-text">
-    Recognized as <strong>Rising Star of the Quarter (Q3) 2025</strong>
-    at Datakulture.
+    Recognized as Rising Star of the Quarter (Q3) 2025
+    at Datakulture, Sedin Technologies.
   </span>
 </div>
 
