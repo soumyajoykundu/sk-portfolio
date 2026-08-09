@@ -14,7 +14,13 @@
     name="description"
     content="{{ site.description }}"
   >
-
+  
+  <!-- Font Awesome -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+  >
+  
   <link
     rel="stylesheet"
     href="{{ '/assets/css/style.css' | relative_url }}"
@@ -46,27 +52,35 @@
 
 
     <nav class="header-links">
-
-      <a href="mailto:sk.cmids25@gmail.com">
-        Email
+    
+      <a
+        href="mailto:sk.cmids25@gmail.com"
+        aria-label="Email"
+        title="Email"
+      >
+        <i class="fa-solid fa-envelope"></i>
       </a>
-
+    
       <a
         href="https://www.linkedin.com/in/soumyajoy-kundu-374733289/"
         target="_blank"
         rel="noopener"
+        aria-label="LinkedIn"
+        title="LinkedIn"
       >
-        LinkedIn
+        <i class="fa-brands fa-linkedin-in"></i>
       </a>
-
+    
       <a
         href="https://github.com/soumyajoykundu"
         target="_blank"
         rel="noopener"
+        aria-label="GitHub"
+        title="GitHub"
       >
-        GitHub
+        <i class="fa-brands fa-github"></i>
       </a>
-
+    
     </nav>
 
   </header>
@@ -87,9 +101,9 @@
 
       <p>
 
-        PhD Researcher in
+       Junior Research Fellow in
         <strong>
-          Brain Computation and Data Science
+          Brain Computation and Data Science group
         </strong>,
 
         <br>
@@ -104,15 +118,10 @@
 
       <p>
 
-        My research interests lie at the intersection of
-        <strong>
-          brain computation, statistics, machine learning,
-          and data science
-        </strong>,
-
-        with broader interests in computational modeling,
-        statistical learning, graph-based methods,
-        and artificial intelligence.
+      My research interests lie at the intersection of computational neuroscience, statistical machine
+      learning, graph-based methods, computer vision, and multimodal AI,
+      with a broader interest in developing data-driven and computational
+      approaches to complex systems.
 
       </p>
 
@@ -179,6 +188,10 @@
 
         Email:
 
+        <a href="mailto:soumyajoyku1@iisc.ac.in">
+         soumyajoyku1@iisc.ac.in
+        </a>
+        <br>
         <a href="mailto:sk.cmids25@gmail.com">
          sk.cmids25@gmail.com
         </a>
@@ -204,7 +217,7 @@
       <div class="profile-links">
 
 
-        <div class="link-group">
+        <!-- <div class="link-group">
 
           <strong>
             Research Profiles:
@@ -240,13 +253,13 @@
             ORCID
           </a>
 
-        </div>
+        </div> -->
 
 
         <div class="link-group">
 
           <strong>
-            Academic:
+            Webpages:
           </strong>
 
           <br>
@@ -262,7 +275,17 @@
           &nbsp;|&nbsp;
 
           <a
-            href="{{ '/assets/CV.pdf' | relative_url }}"
+            href="https://cmi.ac.in/"
+            target="_blank"
+            rel="noopener"
+          >
+            CMI
+          </a>
+
+          &nbsp;|&nbsp;
+
+          <a
+            href="{{ '/assets/CV_Soumyajoy Kundu.pdf' | relative_url }}"
             target="_blank"
           >
             CV
