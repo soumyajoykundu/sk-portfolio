@@ -33,9 +33,7 @@ body {
 .site-container {
   width: calc(100% - 60px);
   max-width: 1120px;
-
   margin: 0 auto;
-
   padding: 50px 0 70px;
 }
 
@@ -46,16 +44,13 @@ body {
 
 .site-header {
   display: flex;
-
   justify-content: space-between;
   align-items: center;
-
   padding-bottom: 30px;
 }
 
 .header-name h1 {
   margin: 0;
-
   font-size: 43px;
   font-weight: 400;
   line-height: 1.15;
@@ -77,19 +72,14 @@ body {
 
 .header-links {
   display: flex;
-
   align-items: center;
-
   gap: 18px;
-
   font-size: 18px;
 }
 
 .header-links a {
   color: #68717d;
-
   text-decoration: none;
-
   transition: color 0.2s ease;
 }
 
@@ -108,13 +98,8 @@ body {
 
 .profile-section {
   display: grid;
-
-  grid-template-columns:
-    minmax(0, 1fr)
-    350px;
-
+  grid-template-columns: minmax(0, 1fr) 350px;
   column-gap: 75px;
-
   align-items: start;
 }
 
@@ -125,12 +110,9 @@ body {
 .profile-content h2 {
   margin-top: 0;
   margin-bottom: 10px;
-
   color: #1d2530;
-
   font-size: 20px;
   font-weight: 600;
-
   line-height: 1.3;
 }
 
@@ -158,12 +140,9 @@ body {
 
 .profile-photo {
   display: block;
-
   width: 400px;
   height: 485px;
-
   object-fit: cover;
-
   margin: 0 auto 25px;
 }
 
@@ -174,15 +153,12 @@ body {
     sans-serif;
 
   font-size: 13px;
-
   line-height: 1.7;
-
   color: #59616d;
 }
 
 .profile-links a {
   color: #59616d;
-
   text-decoration: underline;
 }
 
@@ -196,7 +172,6 @@ body {
 
 .link-group strong {
   color: #303742;
-
   font-weight: 600;
 }
 
@@ -211,25 +186,17 @@ body {
 
 .page-content h2 {
   margin: 0 0 25px;
-
   color: #171d27;
-
   font-size: 29px;
-
   font-weight: 600;
-
   line-height: 1.25;
 }
 
 .page-content h3 {
   margin: 0 0 3px;
-
   color: #202733;
-
   font-size: 21px;
-
   font-weight: 600;
-
   line-height: 1.4;
 }
 
@@ -239,9 +206,7 @@ body {
 
 .page-content a {
   color: #59616d;
-
   text-decoration: underline;
-
   text-underline-offset: 3px;
 }
 
@@ -260,9 +225,7 @@ body {
 
 .page-content hr {
   border: 0;
-
   border-top: 1px solid #e3e6ea;
-
   margin: 58px 0;
 }
 
@@ -276,27 +239,22 @@ body {
 }
 
 .latest-news h2 {
-  margin-top: 0;
-  margin-bottom: 35px;
-
+  margin: 0 0 35px;
   color: #171d27;
-
   font-size: 34px;
-
   font-weight: 600;
-
   line-height: 1.25;
 }
 
-.latest-news p {
+.latest-news-item {
   margin: 0 0 25px;
-
   line-height: 1.65;
 }
 
-.latest-news p:last-child {
+.latest-news-item:last-child {
   margin-bottom: 0;
 }
+
 
 /* ==========================================================
    WORK EXPERIENCE TIMELINE
@@ -304,66 +262,41 @@ body {
 
 .work-timeline {
   position: relative;
-
   margin-top: 10px;
-
   margin-bottom: 20px;
-
   padding-left: 42px;
 }
 
-
-/* Vertical line */
-
 .work-timeline::before {
-
   content: "";
 
   position: absolute;
 
   left: 10px;
-
   top: 12px;
-
   bottom: 12px;
 
   width: 1px;
 
   background: #cfd4da;
-
 }
-
-
-/* Individual timeline item */
 
 .timeline-item {
-
   position: relative;
-
   padding-bottom: 42px;
-
 }
-
 
 .timeline-item:last-child {
-
   padding-bottom: 0;
-
 }
 
-
-/* Timeline circle */
-
 .timeline-dot {
-
   position: absolute;
 
   left: -38px;
-
   top: 8px;
 
   width: 11px;
-
   height: 11px;
 
   border-radius: 50%;
@@ -371,21 +304,13 @@ body {
   background: #ffffff;
 
   border: 2px solid #59616d;
-
 }
-
-
-/* Timeline content */
 
 .timeline-content {
-
   max-width: 850px;
-
 }
 
-
 .timeline-content h3 {
-
   margin: 0 0 3px;
 
   color: #202733;
@@ -395,14 +320,9 @@ body {
   font-weight: 600;
 
   line-height: 1.35;
-
 }
 
-
-/* Institution */
-
 .timeline-place {
-
   color: #3f4650;
 
   font-size: 18px;
@@ -410,16 +330,10 @@ body {
   font-weight: 600;
 
   line-height: 1.5;
-
 }
 
-
-/* Date */
-
 .timeline-date {
-
   margin-top: 2px;
-
   margin-bottom: 12px;
 
   color: #737b85;
@@ -432,96 +346,18 @@ body {
   font-size: 12px;
 
   letter-spacing: 0.2px;
-
 }
-
-
-/* Description */
 
 .timeline-content p {
-
   margin: 0 0 12px;
-
   line-height: 1.65;
-
 }
-
-
-/* Supervisor */
 
 .timeline-supervisor {
-
   color: #737b85;
-
   font-size: 15px;
-
 }
 
-
-/* ==========================================================
-   TIMELINE MOBILE
-   ========================================================== */
-
-@media (max-width: 850px) {
-
-  .work-timeline {
-
-    padding-left: 35px;
-
-  }
-
-  .work-timeline::before {
-
-    left: 8px;
-
-  }
-
-  .timeline-dot {
-
-    left: -33px;
-
-  }
-
-}
-
-
-@media (max-width: 500px) {
-
-  .work-timeline {
-
-    padding-left: 30px;
-
-  }
-
-  .work-timeline::before {
-
-    left: 7px;
-
-  }
-
-  .timeline-dot {
-
-    left: -28px;
-
-    width: 10px;
-
-    height: 10px;
-
-  }
-
-  .timeline-content h3 {
-
-    font-size: 19px;
-
-  }
-
-  .timeline-place {
-
-    font-size: 17px;
-
-  }
-
-}
 
 /* ==========================================================
    LISTS
@@ -562,7 +398,6 @@ body {
 
 .site-footer a {
   color: #68717d;
-
   text-decoration: none;
 }
 
@@ -579,7 +414,6 @@ body {
 
   .site-container {
     width: calc(100% - 40px);
-
     padding-top: 25px;
   }
 
@@ -593,26 +427,34 @@ body {
 
   .profile-section {
     grid-template-columns: 1fr;
-
     row-gap: 35px;
   }
 
   .profile-sidebar {
     order: -1;
-
     text-align: left;
   }
 
   .profile-photo {
     width: 260px;
-
     height: 330px;
-
     margin-left: 0;
   }
 
   .profile-links {
     text-align: left;
+  }
+
+  .work-timeline {
+    padding-left: 35px;
+  }
+
+  .work-timeline::before {
+    left: 8px;
+  }
+
+  .timeline-dot {
+    left: -33px;
   }
 }
 
@@ -637,13 +479,11 @@ body {
 
   .header-links {
     gap: 14px;
-
     font-size: 13px;
   }
 
   .profile-photo {
     width: 220px;
-
     height: 280px;
   }
 
@@ -657,5 +497,27 @@ body {
 
   .latest-news h2 {
     font-size: 28px;
+  }
+
+  .work-timeline {
+    padding-left: 30px;
+  }
+
+  .work-timeline::before {
+    left: 7px;
+  }
+
+  .timeline-dot {
+    left: -28px;
+    width: 10px;
+    height: 10px;
+  }
+
+  .timeline-content h3 {
+    font-size: 19px;
+  }
+
+  .timeline-place {
+    font-size: 17px;
   }
 }
